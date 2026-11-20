@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Forever Hover Bars
+## Notes: Reveal individual Blizzard action bars on hover, independently or together.
+## Author: JimmyMcBride
+## Version: 0.1.0
+## SavedVariables: ForeverHoverBarsDB
+## SavedVariablesPerCharacter: ForeverHoverBarsCharacterDB
+
+Config.lua
+Visibility.lua
+Options.lua
+Core.lua
